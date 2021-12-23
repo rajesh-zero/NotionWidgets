@@ -1,7 +1,7 @@
 ## Welcome to Notion Widgets
 
 ### TodayTimer
-1. [TodayTimer](https://rajesh-zero.github.io/NotionWidgets/TodayTimer/TodayTimer.html)
+Embed this html page in your notion ->  [TodayTimer](https://rajesh-zero.github.io/NotionWidgets/TodayTimer/TodayTimer.html)
 
 ### Pomodoro
 
