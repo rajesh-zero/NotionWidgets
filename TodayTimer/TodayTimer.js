@@ -50,6 +50,6 @@ function getColor(seconds) {
     } else if (seconds < 18000) {
         return '#27ca7e';
     } else {
-        return 'red';
+        return '#27ca7e';
     }
 }
