@@ -1,4 +1,4 @@
-var totalSeconds = 86400;
+var totalSeconds = 64800;
 
 //detect system theme
 function detectTheme() {
@@ -21,6 +21,13 @@ function Display() {
         var m = dts.getMinutes();
         var s = dts.getSeconds();
         var elapsedsec = h*3600 + m * 60 + s
+        
+        elapsedsec = elapsedsec - 21600
+        if(elapsedsec < 0){
+            elapsedsec = 0
+        }
+        
+        
         const a = totalSeconds-elapsedsec;
         let prin = document.getElementById('demo');
         prin.innerHTML = a;
