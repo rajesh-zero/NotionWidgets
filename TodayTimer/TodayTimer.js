@@ -4,7 +4,7 @@ var totalSeconds = 64800;
 function detectTheme() {
     var theme = "light";
     if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        theme = "dark";
+       // theme = "dark";
        // document.body.style.backgroundColor = "#191919";
         
     } else {
