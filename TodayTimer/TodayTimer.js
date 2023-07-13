@@ -2,10 +2,10 @@ var totalSeconds = 64800;
 
 //detect system theme
 function detectTheme() {
-    var theme = "";
+    var theme = "light";
     if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
         theme = "dark";
-        document.body.style.backgroundColor = "#191919";
+       // document.body.style.backgroundColor = "#191919";
         
     } else {
 
