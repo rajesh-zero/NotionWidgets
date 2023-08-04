@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+#author {
+    font-style: italic;
+    font-size: 18px;
+    display: inline-block;  // Allows the button to be placed next to the text
+}
+
+#refresh-button {
+    margin-left: 10px;
+    cursor: pointer;
+    opacity: 0;
+    transition: opacity 0.5s;  // Smooth fade in/out
+}
+
+#quote-container:hover #refresh-button {
+    opacity: 1;
+}
