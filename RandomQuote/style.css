@@ -1,13 +1,21 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    padding: 20px;
+    padding: 5px;
+}
+
+#quote {
+    font-size: 20px;
+    font-weight: 450; 
+    margin-top: 0;
 }
 
 #author {
     font-style: italic;
-    font-size: 18px;
+    font-size: 16px; /* Adjust this to make the text smaller */
+    font-weight: 300; /* Adjust this to make the text lighter */
     display: inline-block;  // Allows the button to be placed next to the text
+    margin-top: 0;
 }
 
 #refresh-button {
