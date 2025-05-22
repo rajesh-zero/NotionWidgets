@@ -546,5 +546,413 @@ let quotes = [
     {
         "quote": "If you really look closely, most overnight successes took a long time.",
         "author": "Steve Jobs"
+    },
+    {
+        "quote": "Don’t count the days, make the days count.",
+        "author": "Muhammad Ali"
+    },
+    {
+        "quote": "Nothing will work unless you do.",
+        "author": "Maya Angelou"
+    },
+    {
+        "quote": "Life isn’t about finding yourself. Life is about creating yourself.",
+        "author": "George Bernard Shaw"
+    },
+    {
+        "quote": "Whatever you are, be a good one.",
+        "author": "Abraham Lincoln"
+    },
+    {
+        "quote": "Today a reader, tomorrow a leader.",
+        "author": "Margaret Fuller"
+    },
+    {
+        "quote": "The two most important days in your life are the day you are born and the day you find out why.",
+        "author": "Mark Twain"
+    },
+    {
+        "quote": "I have not failed. I’ve just found 10,000 ways that won’t work.",
+        "author": "Thomas A. Edison"
+    },
+    {
+        "quote": "If you love life, don’t waste time, for time is what life is made up of.",
+        "author": "Bruce Lee"
+    },
+    {
+        "quote": "Pain is inevitable. Suffering is optional.",
+        "author": "Haruki Murakami"
+    },
+    {
+        "quote": "Build your own dreams, or someone else will hire you to build theirs.",
+        "author": "Farrah Gray"
+    },
+    {
+        "quote": "Don’t wish it were easier. Wish you were better.",
+        "author": "Jim Rohn"
+    },
+    {
+        "quote": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+        "author": "Mahatma Gandhi"
+    },
+    {
+        "quote": "If you really want to do something, you’ll find a way. If you don’t, you’ll find an excuse.",
+        "author": "Jim Rohn"
+    },
+    {
+        "quote": "People will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+        "author": "Maya Angelou"
+    },
+    {
+        "quote": "I hated every minute of training, but I said, “Don’t quit. Suffer now and live the rest of your life as a champion.”",
+        "author": "Muhammad Ali"
+    },
+    {
+        "quote": "The greatest pleasure in life is doing what people say you cannot do.",
+        "author": "Walter Bagehot"
+    },
+    {
+        "quote": "First they ignore you, then they ridicule you, then they fight you, and then you win.",
+        "author": "Mahatma Gandhi"
+    },
+    {
+        "quote": "Discipline is the bridge between goals and accomplishment.",
+        "author": "Jim Rohn"
+    },
+    {
+        "quote": "All things are difficult before they are easy.",
+        "author": "Thomas Fuller"
+    },
+    {
+        "quote": "Knowledge is power.",
+        "author": "Francis Bacon"
+    },
+    {
+        "quote": "Intelligence is the ability to adapt to change. ",
+        "author": "Stephen Hawking"
+    },
+    {
+        "quote": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+        "author": "Albert Einstein"
+    },
+    {
+        "quote": "Success is the sum of small efforts, repeated day in and day out.",
+        "author": "Robert Collier"
+    },
+    {
+        "quote": "Anyone who has never made a mistake has never tried anything new.",
+        "author": "Albert Einstein"
+    },
+    {
+        "quote": "Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.",
+        "author": "Earl Nightingale"
+    },
+    {
+        "quote": "When you want something, all the universe conspires in helping you to achieve it.",
+        "author": "Paulo Coelho"
+    },
+    {
+        "quote": "Choose a job you love, and you will never have to work a day in your life.",
+        "author": "Confucius"
+    },
+    {
+        "quote": "Action is the foundational key to all success. ",
+        "author": "Pablo Picasso"
+    },
+    {
+        "quote": "Your future is created by what you do today, not tomorrow.",
+        "author": "Robert T. Kiyosaki"
+    },
+    {
+        "quote": "Either you run the day or the day runs you.",
+        "author": "Jim Rohn"
+    },
+    {
+        "quote": "Don’t let the noise of others’ opinions drown out your own inner voice.",
+        "author": "Steve Jobs"
+    },
+    {
+        "quote": "DO WHAT YOU CAN’T",
+        "author": "Casey Neistat"
+    },
+    {
+        "quote": "Even dust, if piled up, will become a mountain.",
+        "author": "Japanese Proverb"
+    },
+    {
+        "quote": "The key is not to prioritize what’s on your schedule, but to schedule your priorities.",
+        "author": "Stephen R. Covey"
+    },
+    {
+        "quote": "Action will destroy your procrastination.",
+        "author": "Og Mandino"
+    },
+    {
+        "quote": "You may never know what results come of your actions, but if you do nothing, there will be no results.",
+        "author": "Mahatma Gandhi"
+    },
+    {
+        "quote": "Inspiration is for amateurs. The rest of us just show up and get to work.",
+        "author": "Chuck Close"
+    },
+    {
+        "quote": "Strength does not come from winning. Your struggles develop your strengths. When you go through hardships and decide not to surrender, that is strength.",
+        "author": "Arnold Schwarzenegger"
+    },
+    {
+        "quote": "When I'm old and dying, I plan to look back on my life and say, ‘Wow, that was an adventure,’ not, ‘Wow, I sure felt safe.’",
+        "author": "Tom Preston-Werner"
+    },
+    {
+        "quote": "And those who were seen dancing were thought to be insane by those who could not hear the music.",
+        "author": "Friedrich Nietzsche"
+    },
+    {
+        "quote": "Life is really simple, but we insist on making it complicated.",
+        "author": "Confucius"
+    },
+    {
+        "quote": "Someone's sitting in the shade today because someone planted a tree a long time ago.",
+        "author": "Warren Buffett"
+    },
+    {
+        "quote": "When we strive to become better than we are, everything around us becomes better, too.",
+        "author": "Paulo Coelho"
+    },
+    {
+        "quote": "Success is nothing more than a few simple disciplines, practiced every day.",
+        "author": "Jim Rohn"
+    },
+    {
+        "quote": "I am the master of my fate; I am the captain of my soul.",
+        "author": "William Ernest Henley"
+    },
+    {
+        "quote": "Some people want it to happen, some wish it would happen, and others make it happen.",
+        "author": "Michael Jordan"
+    },
+    {
+        "quote": "The man who moves a mountain begins by carrying away small stones.",
+        "author": "Confucius"
+    },
+    {
+        "quote": "If you realized how powerful your thoughts are, you would never think a negative thought.",
+        "author": "Peace Pilgrim"
+    },
+    {
+        "quote": "Go confidently in the direction of your dreams. Live the life you’ve imagined.",
+        "author": "Henry David Thoreau"
+    },
+    {
+        "quote": "I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.",
+        "author": "Bruce Lee"
+    },
+    {
+        "quote": "I am not a product of my circumstances. I am a product of my decisions.",
+        "author": "Stephen R. Covey"
+    },
+    {
+        "quote": "It’s not over until you win.",
+        "author": "Les Brown"
+    },
+    {
+        "quote": "Only I can change my life. No one can do it for me.",
+        "author": "Carol Burnett"
+    },
+    {
+        "quote": "In order to succeed, your desire for success should be greater than your fear of failure. ",
+        "author": "Bill Cosby"
+    },
+    {
+        "quote": "It is in your moments of decision that your destiny is shaped.",
+        "author": "Tony Robbins"
+    },
+    {
+        "quote": "The most dangerous thing you can do in life is play it safe.",
+        "author": "Casey Neistat"
+    },
+    {
+        "quote": "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.",
+        "author": "Samuel Beckett"
+    },
+    {
+        "quote": "Those who dare to fail miserably can achieve greatly.",
+        "author": "John F. Kennedy"
+    },
+    {
+        "quote": "Run when you can, walk if you have to, crawl if you must; just never give up.",
+        "author": "Dean Karnazes"
+    },
+    {
+        "quote": "What we fear doing most is usually what we most need to do.",
+        "author": "Tim Ferriss"
+    },
+    {
+        "quote": "What you seek is seeking you.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Not all who wander are lost.",
+        "author": "J. R. R. Tolkien"
+    },
+    {
+        "quote": "The biggest adventure you can ever take is to live the life of your dreams.",
+        "author": "Oprah Winfrey"
+    },
+    {
+        "quote": "The time is always right to do the right thing.",
+        "author": "Martin Luther King Jr."
+    },
+    {
+        "quote": "There is only one thing that makes a dream impossible to achieve: the fear of failure.",
+        "author": "Paulo Coelho"
+    },
+    {
+        "quote": "The way I see it, if you want the rainbow, you gotta put up with the rain.",
+        "author": "Dolly Parton"
+    },
+    {
+        "quote": "The only person you are destined to become is the person you decide to be.",
+        "author": "Ralph Waldo Emerson"
+    },
+    {
+        "quote": "To bring anything into your life, imagine that it’s already there.",
+        "author": "Richard Bach"
+    },
+    {
+        "quote": "Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.",
+        "author": "Dale Carnegie"
+    },
+    {
+        "quote": "You don’t learn to walk by following rules. You learn by doing and falling over.",
+        "author": "Richard Branson"
+    },
+    {
+        "quote": "You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win.",
+        "author": "Zig Ziglar"
+    },
+    {
+        "quote": "Embrace the glorious mess that you are.",
+        "author": "Elizabeth Gilbert"
+    },
+    {
+        "quote": "Adopt the pace of nature: her secret is patience.",
+        "author": "Ralph Waldo Emerson"
+    },
+    {
+        "quote": "I don't measure a man’s success by how high he climbs but how high he bounces when he hits bottom.",
+        "author": "George S. Patton Jr."
+    },
+    {
+        "quote": "The few who do are the envy of the many who only watch.",
+        "author": "Jim Rohn"
+    },
+    {
+        "quote": "Perfection is not attainable, but if we chase perfection we can catch excellence.",
+        "author": "Vince Lombardi"
+    },
+    {
+        "quote": "Eighty percent of success is showing up.",
+        "author": "Woody Allen"
+    },
+    {
+        "quote": "Effort only fully releases its reward after a person refuses to quit.",
+        "author": "Napoleon Hill"
+    },
+    {
+        "quote": "The best way out is always through.",
+        "author": "Robert Frost"
+    },
+    {
+        "quote": "To give anything less than your best is to sacrifice the gift.",
+        "author": "Steve Prefontaine"
+    },
+    {
+        "quote": "The brick walls are there for a reason. The brick walls are not there to keep us out. The brick walls are there to give us a chance to show how badly we want something. Because the brick walls are there to stop the people who don’t want it badly enough. They’re there to stop the other people.",
+        "author": "Randy Pausch"
+    },
+    {
+        "quote": "Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure. It is our light, not our darkness that most frightens us.",
+        "author": "Marianne Williamson"
+    },
+    {
+        "quote": "Always be a first rate version of yourself and not a second rate version of someone else.",
+        "author": "Judy Garland"
+    },
+    {
+        "quote": "I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.",
+        "author": "Og Mandino"
+    },
+    {
+        "quote": "Perpetual optimism is a force multiplier.",
+        "author": "Colin Powell"
+    },
+    {
+        "quote": "Between stimulus and response, there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.",
+        "author": "Viktor E. Frankl"
+    },
+    {
+        "quote": "Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected.",
+        "author": "Steve Jobs"
+    },
+    {
+        "quote": "When you know better you do better.",
+        "author": "Maya Angelou"
+    },
+    {
+        "quote": "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I have lived through this horror. I can take the next thing that comes along.' You must do the thing you think you cannot do.",
+        "author": "Eleanor Roosevelt"
+    },
+    {
+        "quote": "If you judge people, you have no time to love them.",
+        "author": "Mother Teresa"
+    },
+    {
+        "quote": "Far better it is to dare mighty things, to win glorious triumphs, even though checkered by failure, than to take rank with those poor spirits who neither enjoy much nor suffer much, because they live in the gray twilight that knows neither victory nor defeat.",
+        "author": "Theodore Roosevelt"
+    },
+    {
+        "quote": "You’ve got to find what you love.",
+        "author": "Steve Jobs"
+    },
+    {
+        "quote": "We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.",
+        "author": "Swami Vivekananda"
+    },
+    {
+        "quote": "Without ambition one starts nothing. Without work one finishes nothing. The prize will not be sent to you. You have to win it.",
+        "author": "Ralph Waldo Emerson"
+    },
+    {
+        "quote": "Too often we underestimate the power of a touch, a smile, a kind word, a listening ear, an honest compliment, or the smallest act of caring, all of which have the potential to turn a life around.",
+        "author": "Leo Buscaglia"
+    },
+    {
+        "quote": "Never stop fighting until you arrive at your destined place – that is, the unique you. Have an aim in life, continuously acquire knowledge, work hard, and have perseverance to realise the great life.",
+        "author": "Abdul Kalam"
+    },
+    {
+        "quote": "Never give in. Never give in. Never, never, never, never – in nothing, great or small, large or petty – never give in, except to convictions of honour and good sense. Never yield to force. Never yield to the apparently overwhelming might of the enemy.",
+        "author": "Winston Churchill"
+    },
+    {
+        "quote": "You have something special, you have GREATNESS within you!",
+        "author": "Les Brown"
+    },
+    {
+        "quote": "I did then what I knew how to do. Now that I know better, I do better.",
+        "author": "Maya Angelou"
+    },
+    {
+        "quote": "A heart full of love and compassion is the main source of inner strength, willpower, happiness, and mental tranquility.",
+        "author": "Dalai Lama XIV"
+    },
+    {
+        "quote": "I plead with you – never, ever give up on hope, never doubt, never tire, and never become discouraged. Be not afraid.",
+        "author": "Pope John Paul II"
+    },
+    {
+        "quote": "Sport has the power to change the world. It has the power to inspire. It has the power to unite people in a way that little else does. It speaks to youth in a language they understand. Sport can create hope where once there was only despair.",
+        "author": "Nelson Mandela"
     }
 ]
